@@ -118,7 +118,7 @@ Below is a brief overview of how to interact with the **Appointments API**.
 ---
 
 **Note**: Make sure to include the following header with every protected request:
-```http
+
 Authorization: Bearer <token>
 
 ## Running the Laravel Project Locally
